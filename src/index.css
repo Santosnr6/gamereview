@@ -2,7 +2,7 @@
 
 :root {
   /* Backgrounds */
-  --color-bg: hotpink;
+  --color-bg: #0b0b10;
   /* #0b0b10 */
   --color-bg-header: #111118;
   --color-surface: #171720;
@@ -19,7 +19,7 @@
   --color-text-subtle: #606074;
 
   /* Brand / accent */
-  --color-primary: green;
+  --color-primary: #fbbf24;
   /* #fbbf24 */
   --color-primary-hover: #f59e0b;
   --color-primary-muted: #3b3014;
