@@ -19,7 +19,8 @@
   --color-text-subtle: #606074;
 
   /* Brand / accent */
-  --color-primary: #fbbf24;
+  --color-primary: green;
+  /* #fbbf24 */
   --color-primary-hover: #f59e0b;
   --color-primary-muted: #3b3014;
 
