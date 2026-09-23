@@ -12,7 +12,7 @@ const LandingPage = () => {
 	const [showAddGameModal, setShowAddGameModal] = useState(false);
 	const [category, setCategory] = useState("All");
 	const [search, setSearch] = useState("");
-	const user = null;
+	const user = useAuthStore((state) => state.user);
 	const {
 		data : games,
 		isLoading,
